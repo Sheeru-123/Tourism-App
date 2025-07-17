@@ -22,7 +22,6 @@ A visually engaging website that showcases beautiful travel destinations around 
 
 ## Sample Output
 
-<video "C:\Users\shaik\Videos\Screen Recordings\Screen Recording 2025-07-17 103742.mp4" />
 
 
 
