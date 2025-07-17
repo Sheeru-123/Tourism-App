@@ -18,6 +18,11 @@ A visually engaging website that showcases beautiful travel destinations around 
 - Vanilla JavaScript (DOM manipulation, event listeners)
 
 ## 📸 Screenshots
+<img width="1905" height="971" alt="Screenshot 2025-07-17 103546" src="https://github.com/user-attachments/assets/dacb48a1-37df-4ab1-9c62-b95d83ae0e11" />
+
+## Sample Output
+
+<video "C:\Users\shaik\Videos\Screen Recordings\Screen Recording 2025-07-17 103742.mp4" />
 
 
 
